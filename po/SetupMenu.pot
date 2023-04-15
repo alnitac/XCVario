@@ -1,0 +1,2870 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: c:\d_xcvario\SetupMenu.cpp:675 c:\d_xcvario\SetupMenu.cpp:714
+#: c:\d_xcvario\SetupMenu.cpp:718 c:\d_xcvario\SetupMenu.cpp:726
+#: c:\d_xcvario\SetupMenu.cpp:753 c:\d_xcvario\SetupMenu.cpp:854
+#: c:\d_xcvario\SetupMenu.cpp:858 c:\d_xcvario\SetupMenu.cpp:862
+#: c:\d_xcvario\SetupMenu.cpp:866 c:\d_xcvario\SetupMenu.cpp:904
+#: c:\d_xcvario\SetupMenu.cpp:1121 c:\d_xcvario\SetupMenu.cpp:1126
+#: c:\d_xcvario\SetupMenu.cpp:1136 c:\d_xcvario\SetupMenu.cpp:1183
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1351
+#: c:\d_xcvario\SetupMenu.cpp:1356 c:\d_xcvario\SetupMenu.cpp:1361
+#: c:\d_xcvario\SetupMenu.cpp:1366 c:\d_xcvario\SetupMenu.cpp:1371
+#: c:\d_xcvario\SetupMenu.cpp:1376 c:\d_xcvario\SetupMenu.cpp:1382
+#: c:\d_xcvario\SetupMenu.cpp:1387 c:\d_xcvario\SetupMenu.cpp:1627
+#: c:\d_xcvario\SetupMenu.cpp:1687 c:\d_xcvario\SetupMenu.cpp:1724
+#: c:\d_xcvario\SetupMenu.cpp:1960 c:\d_xcvario\SetupMenu.cpp:1988
+#: c:\d_xcvario\SetupMenu.cpp:2000 c:\d_xcvario\SetupMenu.cpp:2035
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-15 20:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: c:\d_xcvario\SetupMenu.cpp:68
+#, c-format
+msgid "init_routing S1: %x"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:75
+#, c-format
+msgid "init_routing S2: %x"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:89
+#, c-format
+msgid "update_routing S1: %x"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:96
+#, c-format
+msgid "update_routing S2: %x"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:111
+#, c-format
+msgid "screens mask len: %d, screens: %d"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:146
+#, c-format
+msgid "initGearWarning: IO: %d"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:180
+#, c-format
+msgid "Fix (5  %s)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:181
+#, c-format
+msgid "Fix (10 %s)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:182
+#, c-format
+msgid "Variable (%d %s)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:198
+#, c-format
+msgid "data_mon( %d ) "
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:207
+#, c-format
+msgid "New Letter %c Index: %d"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:211
+#, c-format
+msgid "New ID %s"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:218
+#, c-format
+msgid "add_key( %d ) "
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:220 c:\d_xcvario\SetupMenu.cpp:221
+#: c:\d_xcvario\SetupMenu.cpp:224 c:\d_xcvario\SetupMenu.cpp:225
+#: c:\d_xcvario\SetupMenu.cpp:792 c:\d_xcvario\SetupMenu.cpp:825
+#: c:\d_xcvario\SetupMenu.cpp:849 c:\d_xcvario\SetupMenu.cpp:927
+#: c:\d_xcvario\SetupMenu.cpp:1048 c:\d_xcvario\SetupMenu.cpp:1054
+#: c:\d_xcvario\SetupMenu.cpp:1084 c:\d_xcvario\SetupMenu.cpp:1252
+#: c:\d_xcvario\SetupMenu.cpp:1256 c:\d_xcvario\SetupMenu.cpp:1260
+#: c:\d_xcvario\SetupMenu.cpp:1264 c:\d_xcvario\SetupMenu.cpp:1405
+#: c:\d_xcvario\SetupMenu.cpp:1426 c:\d_xcvario\SetupMenu.cpp:1532
+#: c:\d_xcvario\SetupMenu.cpp:1604 c:\d_xcvario\SetupMenu.cpp:1625
+#: c:\d_xcvario\SetupMenu.cpp:1685 c:\d_xcvario\SetupMenu.cpp:1732
+#: c:\d_xcvario\SetupMenu.cpp:1737 c:\d_xcvario\SetupMenu.cpp:1742
+#: c:\d_xcvario\SetupMenu.cpp:1747 c:\d_xcvario\SetupMenu.cpp:1766
+#: c:\d_xcvario\SetupMenu.cpp:1795 c:\d_xcvario\SetupMenu.cpp:1801
+#: c:\d_xcvario\SetupMenu.cpp:1805 c:\d_xcvario\SetupMenu.cpp:1809
+#: c:\d_xcvario\SetupMenu.cpp:1813 c:\d_xcvario\SetupMenu.cpp:1856
+#: c:\d_xcvario\SetupMenu.cpp:1862 c:\d_xcvario\SetupMenu.cpp:1867
+#: c:\d_xcvario\SetupMenu.cpp:1872 c:\d_xcvario\SetupMenu.cpp:1877
+msgid "Enable"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:232
+#, c-format
+msgid "qnh_adj %f"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:250
+#, c-format
+msgid "Setup BA alt=%f QNH=%f hPa"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:254
+msgid "m"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:259
+msgid "ft"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:263
+#, c-format
+msgid "%5d %s  "
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:273
+msgid "factv_adj"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:277
+#, c-format
+msgid "%0.2f Volt"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:283
+msgid "master_xcv_lock"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:287
+#, c-format
+msgid "Scanned: XCVario-%d"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:297
+#, c-format
+msgid "glider-index %d, glider num %d"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:306
+#, c-format
+msgid "%0.2f kg/m2  "
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:314
+#, c-format
+msgid "water_adj() wingload:%.1f empty: %.1f cw:%.1f water:%.1f"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:382
+msgid "compassSensorCalibrateAction()"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:410
+msgid "SetupMenu() begin"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:438
+#, c-format
+msgid "<< %s"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:444
+#, c-format
+msgid "%s"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:449
+#, c-format
+msgid ": "
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:450 c:\d_xcvario\SetupMenu.cpp:1575
+msgid ":"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:452
+#, c-format
+msgid " %s"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:640
+#, c-format
+msgid "longPress() active_srceen %d, pressed %d inSet %d"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:657
+msgid "escape now Setup Menu"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:665 c:\d_xcvario\SetupMenu.cpp:693
+#: c:\d_xcvario\SetupMenu.cpp:1106
+msgid "Damping"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:665 c:\d_xcvario\SetupMenu.cpp:669
+#: c:\d_xcvario\SetupMenu.cpp:683 c:\d_xcvario\SetupMenu.cpp:693
+#: c:\d_xcvario\SetupMenu.cpp:1106 c:\d_xcvario\SetupMenu.cpp:1131
+msgid "sec"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:666
+msgid "Response time, time constant of Vario low pass kalman filter"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:669 c:\d_xcvario\SetupMenu.cpp:1136
+#: c:\d_xcvario\SetupMenu.cpp:1183
+msgid "Averager"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:670
+msgid "Response time, time constant of digital Average Vario Display"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:675
+msgid "Minimum climb"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:676
+msgid "Minimum climb rate that counts for arithmetic mean climb value"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:679
+msgid "Duration"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:679
+msgid "min"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:680
+msgid ""
+"Duration in minutes where samples for mean climb value are regarded, default "
+"is last 3 thermals or 45 min"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:683
+msgid "Cycle"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:684
+msgid ""
+"Cycle in number of seconds when mean climb value is recalculated, default is "
+"every 60 seconds"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:687
+msgid "Major Change"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:687 c:\d_xcvario\SetupMenu.cpp:938
+#: c:\d_xcvario\SetupMenu.cpp:944 c:\d_xcvario\SetupMenu.cpp:950
+msgid "m/s"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:688
+msgid ""
+"Change in mean climb during last cycle (minute), that results in a major "
+"change indication with (arrow symbol)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:694
+msgid "Time constant of S2F low pass filter"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:697
+msgid "Blockspeed"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:698
+msgid ""
+"With Blockspeed enabled, vertical movement of airmass or G-load is not "
+"considered for speed to fly (S2F) calculation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:699 c:\d_xcvario\SetupMenu.cpp:741
+#: c:\d_xcvario\SetupMenu.cpp:760 c:\d_xcvario\SetupMenu.cpp:779
+msgid "DISABLE"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:700 c:\d_xcvario\SetupMenu.cpp:742
+#: c:\d_xcvario\SetupMenu.cpp:761 c:\d_xcvario\SetupMenu.cpp:780
+msgid "ENABLE"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:703
+msgid "S2F Mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:704
+msgid "Select source for S2F <-> Vario change, that supports multiple ways"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:705
+msgid "Vario fix"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:706
+msgid "Cruise fix"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:707 c:\d_xcvario\SetupMenu.cpp:1647
+msgid "Switch"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:708
+msgid "AutoSpeed"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:709 c:\d_xcvario\SetupMenu.cpp:1659
+#: c:\d_xcvario\SetupMenu.cpp:1698
+msgid "External"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:710
+msgid "Flap"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:711
+msgid "AHRS-Gyro"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:714
+msgid "S2F AutoSpeed"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:716
+msgid ""
+"Transition speed in AutoSpeed mode to switch Vario <-> Cruise (S2F) mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:718
+msgid "S2F Flap Pos"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:720
+msgid ""
+"Precise flap position in Flap mode to switch Vario <-> Cruise (S2F) mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:722
+msgid "S2F AHRS Deg"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:722 c:\d_xcvario\SetupMenu.cpp:1077
+#: c:\d_xcvario\SetupMenu.cpp:1143 c:\d_xcvario\SetupMenu.cpp:1147
+#: c:\d_xcvario\SetupMenu.cpp:1152 c:\d_xcvario\SetupMenu.cpp:1179
+#: c:\d_xcvario\SetupMenu.cpp:1193
+msgid "°"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:724
+msgid ""
+"Attitude change in degree per second to switch Vario <-> Cruise (S2F) mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:726
+msgid "Hysteresis"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:727
+msgid "Hysteresis for auto S2F transition at autospeed +- this value"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:730
+msgid "Arrow Color"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:731
+msgid "Select color of the S2F arrow's when painted in Up/Down position"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:732
+msgid "White/White"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:733
+msgid "Blue/Blue"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:734
+msgid "Green/Red"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:739
+msgid "eCompensation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:740
+msgid ""
+"Enable/Disable electronic TE compensation option; Enable only when TE "
+"pressure is connected to ST (static) pressure"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:745
+msgid "Adjustment"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:745 c:\d_xcvario\SetupMenu.cpp:828
+#: c:\d_xcvario\SetupMenu.cpp:872 c:\d_xcvario\SetupMenu.cpp:876
+#: c:\d_xcvario\SetupMenu.cpp:920 c:\d_xcvario\SetupMenu.cpp:1023
+#: c:\d_xcvario\SetupMenu.cpp:1308 c:\d_xcvario\SetupMenu.cpp:1617
+#: c:\d_xcvario\SetupMenu.cpp:1675 c:\d_xcvario\SetupMenu.cpp:1700
+#: c:\d_xcvario\SetupMenu.cpp:1966 c:\d_xcvario\SetupMenu.cpp:1971
+#: c:\d_xcvario\SetupMenu.cpp:2048
+msgid "%"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:746
+msgid ""
+"Adjustment option for electronic compensation in %. This affects in % the "
+"energy altitude calculated from airspeed"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:751
+#, c-format
+msgid "SetupMenu::vario_menu_create( %p )"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:753 c:\d_xcvario\SetupMenu.cpp:892
+msgid "Range"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:754
+msgid "Upper and lower value for Vario graphic display region"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:758
+msgid "Log. Scale"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:759
+msgid "Use a logarithmic scale to the vario gauge"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:764 c:\d_xcvario\SetupMenu.cpp:1895
+msgid "Mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:765
+msgid ""
+"Controls if vario considers polar sink (=Netto), or not (=Brutto), or if "
+"Netto vario applies only in Cruise Mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:766
+msgid "Brutto"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:767
+msgid "Netto"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:768
+msgid "Cruise-Netto"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:771
+msgid "Netto Mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:772
+msgid ""
+"In 'Relative' mode, also circling sink is considered also called 'Super-"
+"Netto' to show climb rate as if you were circling there"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:773 c:\d_xcvario\SetupMenu.cpp:1776
+#: c:\d_xcvario\SetupMenu.cpp:1782 c:\d_xcvario\SetupMenu.cpp:1788
+#: c:\d_xcvario\SetupMenu.cpp:1837 c:\d_xcvario\SetupMenu.cpp:1843
+#: c:\d_xcvario\SetupMenu.cpp:1849
+msgid "Normal"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:774
+msgid "Relative"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:777
+msgid "Polar Sink"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:778
+msgid ""
+"Show polar sink rate together with TE in Vario bar when Vario is in Brutto "
+"Mode (else disabled)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:783
+msgid "Needle Color"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:784
+msgid "Choose the color of the vario needle"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:785
+msgid "White"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:786
+msgid "Orange"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:787
+msgid "Red"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:790
+msgid "Center-Aid"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:791 c:\d_xcvario\SetupMenu.cpp:824
+#: c:\d_xcvario\SetupMenu.cpp:848 c:\d_xcvario\SetupMenu.cpp:926
+#: c:\d_xcvario\SetupMenu.cpp:1017 c:\d_xcvario\SetupMenu.cpp:1029
+#: c:\d_xcvario\SetupMenu.cpp:1047 c:\d_xcvario\SetupMenu.cpp:1053
+#: c:\d_xcvario\SetupMenu.cpp:1061 c:\d_xcvario\SetupMenu.cpp:1063
+#: c:\d_xcvario\SetupMenu.cpp:1083 c:\d_xcvario\SetupMenu.cpp:1206
+#: c:\d_xcvario\SetupMenu.cpp:1215 c:\d_xcvario\SetupMenu.cpp:1241
+#: c:\d_xcvario\SetupMenu.cpp:1251 c:\d_xcvario\SetupMenu.cpp:1255
+#: c:\d_xcvario\SetupMenu.cpp:1259 c:\d_xcvario\SetupMenu.cpp:1263
+#: c:\d_xcvario\SetupMenu.cpp:1295 c:\d_xcvario\SetupMenu.cpp:1321
+#: c:\d_xcvario\SetupMenu.cpp:1404 c:\d_xcvario\SetupMenu.cpp:1425
+#: c:\d_xcvario\SetupMenu.cpp:1531 c:\d_xcvario\SetupMenu.cpp:1602
+#: c:\d_xcvario\SetupMenu.cpp:1624 c:\d_xcvario\SetupMenu.cpp:1654
+#: c:\d_xcvario\SetupMenu.cpp:1684 c:\d_xcvario\SetupMenu.cpp:1712
+#: c:\d_xcvario\SetupMenu.cpp:1731 c:\d_xcvario\SetupMenu.cpp:1736
+#: c:\d_xcvario\SetupMenu.cpp:1741 c:\d_xcvario\SetupMenu.cpp:1746
+#: c:\d_xcvario\SetupMenu.cpp:1765 c:\d_xcvario\SetupMenu.cpp:1794
+#: c:\d_xcvario\SetupMenu.cpp:1800 c:\d_xcvario\SetupMenu.cpp:1804
+#: c:\d_xcvario\SetupMenu.cpp:1808 c:\d_xcvario\SetupMenu.cpp:1812
+#: c:\d_xcvario\SetupMenu.cpp:1855 c:\d_xcvario\SetupMenu.cpp:1861
+#: c:\d_xcvario\SetupMenu.cpp:1866 c:\d_xcvario\SetupMenu.cpp:1871
+#: c:\d_xcvario\SetupMenu.cpp:1876 c:\d_xcvario\SetupMenu.cpp:1954
+msgid "Disable"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:795
+msgid "Vario Damping"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:799
+msgid "Mean Climb"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:800
+msgid ""
+"Mean Climb or MC recommendation by green/red rhombus displayed in vario "
+"scale adjustment"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:804
+msgid "S2F Settings"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:808
+msgid "Electronic Compensation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:814
+msgid "CenterFreq"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:814
+msgid "Hz"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:815
+msgid "Center frequency for Audio at zero Vario or zero S2F delta"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:818
+msgid "Octaves"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:818
+msgid "fold"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:819
+msgid "Maximum tone frequency variation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:822
+msgid "Dual Tone"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:823
+msgid ""
+"Select dual tone modue aka ilec sound, (di/da/di) or single tone (di/di/di) "
+"mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:828
+msgid "Dual Tone Pich"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:829
+msgid ""
+"Tone variation in Dual Tone mode, percent of frequency pitch up for second "
+"tone"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:832
+msgid "Chopping"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:833
+msgid "Select tone chopping option on positive values for Vario and or S2F"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:834
+msgid "Disabled"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:835
+msgid "Vario only"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:836
+msgid "S2F only"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:837
+msgid "Vario and S2F"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:840
+msgid "Chopping Style"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:841
+msgid "Select style of tone chopping either hard, or soft with fadein/fadeout"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:842
+msgid "Soft"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:843
+msgid "Hard"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:846
+msgid "Variable Tone"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:847
+msgid ""
+"Option to enable audio frequency updates within climbing tone intervals, "
+"disable keeps frequency constant"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:854
+msgid "Lower Vario"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:855
+msgid "Lower deadband limit (sink) for Audio mute function when in Vario mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:858
+msgid "Upper Vario"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:859
+msgid "Upper deadband limit (climb) for Audio mute function when in Vario mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:862
+msgid "Lower S2F"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:863
+msgid "Negative deadband limit in speed (too slow) deviation when in S2F mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:866
+msgid "Upper S2F"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:867
+msgid "Positive deadband limit in speed (too high) deviation when in S2F mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:872
+msgid "Default Volume"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:874
+msgid "Default volume for Audio when device is switched on"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:876
+msgid "Max Volume"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:878
+#, c-format
+msgid ""
+"Maximum volume for Audio when volume setting is at max. Set to 0% to mute "
+"audio entirely."
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:880
+msgid "Cruise Audio"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:881
+msgid ""
+"Select either S2F command or Variometer (Netto/Brutto as selected) as audio "
+"source while cruising"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:882
+msgid "Speed2Fly"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:883 c:\d_xcvario\SetupMenu.cpp:994
+msgid "Vario"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:886
+msgid "Tone Styles"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:888
+msgid ""
+"Configure audio style in terms of center frequency, octaves, single/dual "
+"tone, pitch and chopping"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:896
+msgid ""
+"Select either fixed or variable Audio range according to current Vario "
+"setting"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:899
+msgid "Deadbands"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:901
+msgid ""
+"Audio dead band limits within Audio remains silent in metric scale. 0,1 m/s "
+"equals roughly 20 ft/min or 0.2 knots"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:904
+msgid "Audio Exponent"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:905
+msgid ""
+"Exponential factor < 1 gives a logarithmic, and > 1 exponential "
+"characteristic for frequency of audio signal"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:908
+msgid "Amplifier Off"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:909
+msgid ""
+"Select if Amplifier is totally shutdown while in deadband (saves energy), or "
+"stays always on"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:910
+msgid "Always On"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:911
+msgid "Shutdown"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:914
+msgid "Audio in Setup"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:915
+msgid ""
+"Select if Audio will get muted while Setup Menu is open or stays always on"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:916
+msgid "Stay On"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:917
+msgid "Silent"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:920
+msgid "Frequency Response"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:921
+msgid ""
+"Setup frequency response, double frequency will be attenuated by the factor "
+"given, half frequency will be amplified"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:924
+msgid "Split Volume"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:925
+msgid ""
+"Enable to control audio volume individually in SpeedToFly and in Vario mode, "
+"else there is one volume for both"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:932
+msgid "Ref Wingload"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:932
+msgid "kg/m2"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:933
+msgid "Wingload that corresponds to the 3 value pairs for speed/sink of polar"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:935
+msgid "Speed 1"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:935 c:\d_xcvario\SetupMenu.cpp:941
+#: c:\d_xcvario\SetupMenu.cpp:947 c:\d_xcvario\SetupMenu.cpp:1157
+#: c:\d_xcvario\SetupMenu.cpp:1188
+msgid "km/h"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:936
+msgid "Speed 1, near to minimum sink from polar e.g. 80 km/h"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:938
+msgid "Sink  1"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:939
+msgid "Sink indication at Speed 1 from polar"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:941
+msgid "Speed 2"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:942
+msgid "Speed 2 for a moderate cruise from polar e.g. 120 km/h"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:944
+msgid "Sink  2"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:945
+msgid "Sink indication at Speed 2 from polar"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:947
+msgid "Speed 3"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:948
+msgid "Speed 3 for a fast cruise from polar e.g. 170 km/h"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:950
+msgid "Sink  3"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:951
+msgid "Sink indication at Speed 3 from polar"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:956
+msgid "Glider-Type"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:961
+msgid "Weight and polar setup for best match with performance of glider"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:962
+#, c-format
+msgid "Number of Polars installed: %d"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:964
+msgid "Polar Points"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:965
+msgid ""
+"Adjust polar at 3 points of selected polar in commonly used metric system "
+"for polars"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:969
+msgid "Max Ballast"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:969
+msgid "liters"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:970
+msgid ""
+"Maximum water ballast for selected glider to allow sync from XCSoar using "
+"fraction of max ballast"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:973
+msgid "Wing Area"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:973
+msgid "m2"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:974
+msgid ""
+"Wingarea for the selected glider, to allow adjustments to support wing "
+"extensions or new types in square meters"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:977
+msgid "Empty Weight"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:977 c:\d_xcvario\SetupMenu.cpp:1980
+msgid "kg"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:979
+msgid ""
+"Net rigged weight of the glider, according to the weight and balance plan"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:984
+msgid "Altimeter"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:985 c:\d_xcvario\SetupMenu.cpp:1009
+msgid "Meter (m)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:986
+msgid "Foot (ft)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:987
+msgid "FL (FL)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:989
+msgid "Airspeed"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:990
+msgid "Kilom./hour (Km/h)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:991
+msgid "Miles/hour (mph)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:992
+msgid "Knots (kt)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:995
+msgid "Meters/sec (m/s)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:996
+msgid "Feet/min x 100 (ft/min)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:997
+msgid "Knots (knots)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:999
+msgid "Temperature"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1000
+msgid "Celcius"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1001
+msgid "Fahrenheit"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1002
+msgid "Kelvin"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1004 c:\d_xcvario\SetupMenu.cpp:1431
+#: c:\d_xcvario\SetupMenu.cpp:2035
+msgid "QNH"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1005
+msgid "Hectopascal"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1006
+msgid "InchMercury"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1008
+msgid "Distance"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1010
+msgid "Feet (ft)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1015
+msgid "Alarm Level"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1016
+msgid ""
+"Enable FLARM Alarm level 1 is lowest with 13-18 sec, 2 medium 9-12 sec and 3 "
+"highest with 0-8 sec until impact"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1018
+msgid "Level 1"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1019
+msgid "Level 2"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1020
+msgid "Level 3"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1023
+msgid "Alarm Volume"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1024
+msgid "Maximum volume FLARM alarm audio warning"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1027
+msgid "FLARM Simulation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1028
+msgid ""
+"Simulate an airplane crossing from left to right with different alarm levels "
+"and vertical distance 5 seconds after pressed (leave setup!)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1030
+msgid "Start Sim"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1035
+msgid "0°"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1035
+msgid "45°"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1035
+msgid "90°"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1035
+msgid "135°"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1035
+msgid "180°"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1035
+msgid "225°"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1035
+msgid "270°"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1035
+msgid "315°"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1038 c:\d_xcvario\SetupMenu.cpp:1544
+#: c:\d_xcvario\SetupMenu.cpp:1546
+msgid "Direction"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1039
+msgid "Push button to start deviation action"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1046
+msgid "Magnetic Heading"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1049
+msgid "Enable/disable NMEA '$HCHDM' sentence generation for magnetic heading"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1052
+msgid "True Heading"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1055
+msgid "Enable/disable NMEA '$HCHDT' sentence generation for true heading"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1060
+msgid "Sensor Option"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1062
+msgid "Enable I2C sensor"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1064
+msgid "Enable CAN sensor"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1066
+msgid "Option to enable/disable the Compass Sensor"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1069
+msgid "Sensor Calibration"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1070 c:\d_xcvario\SetupMenu.cpp:1098
+#: c:\d_xcvario\SetupMenu.cpp:1395 c:\d_xcvario\SetupMenu.cpp:1465
+#: c:\d_xcvario\SetupMenu.cpp:1609 c:\d_xcvario\SetupMenu.cpp:1707
+#: c:\d_xcvario\SetupMenu.cpp:1910
+msgid "Cancel"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1071 c:\d_xcvario\SetupMenu.cpp:1466
+#: c:\d_xcvario\SetupMenu.cpp:1610 c:\d_xcvario\SetupMenu.cpp:1708
+msgid "Start"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1072
+msgid "Show"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1073
+msgid "Show Raw Data"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1074
+msgid "Calibrate Magnetic Sensor, mandatory for operation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1077
+msgid "Setup Declination"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1078
+msgid "Set compass declination in degrees"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1081
+msgid "AutoDeviation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1082
+msgid ""
+"Automatic adaptive deviation and precise airspeed evaluation method using "
+"data from circling wind"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1087
+msgid "Setup Deviations"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1088
+msgid "Compass Deviations"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1093
+msgid "Show Deviations"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1096
+msgid "Reset Deviations "
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1097
+msgid "Reset all deviation data to zero"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1099 c:\d_xcvario\SetupMenu.cpp:1394
+msgid "Reset"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1102
+msgid "Setup NMEA"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1109
+msgid "Compass or magnetic heading damping factor in seconds"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1111
+msgid "I2C Clock"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1111
+msgid "KHz"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1113
+msgid "Setup compass I2C Bus clock in KHz"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1116
+msgid "Show Settings"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1121
+msgid "Airspeed Lowpass"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1124
+msgid ""
+"Lowpass factor for airspeed correction in airspeed estimation from AS/"
+"Compass and GPS tracks"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1126
+msgid "Deviation Lowpass"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1129
+msgid ""
+"Lowpass factor for deviation table correction from AS/Compass and GPS tracks "
+"estimation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1131
+msgid "GPS Lowpass"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1134
+msgid ""
+"Lowpass factor for GPS track and speed, to correlate with Compass latency"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1139
+msgid "Number of measurements used for straight flight live wind averager"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1143
+msgid "Deviation Limit"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1144
+msgid "Maximum deviation accepted derived from AS/Compass and GPS tracks"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1147
+msgid "Sideslip Limit"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1150
+msgid ""
+"Maximum side slip in ° from side slip estimator accepted straight wind "
+"calculation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1152
+msgid "Course Limit"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1155
+msgid ""
+"Maximum delta angle in ° per second during straight flight accepted for "
+"straight wind calculation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1157
+msgid "AS Delta Limit"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1160
+msgid ""
+"Maximum delta in airspeed estimation from wind and GPS during straight "
+"flight accpeted for straight wind calculation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1164
+msgid "Filters"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1167
+msgid "Limits"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1170
+msgid "Straight Wind Status"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1176
+msgid "Circling Wind Status"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1179
+msgid "Max Delta"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1181
+msgid ""
+"Maximum accepted delta accepted value for heading error in circling wind "
+"calculation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1186
+msgid ""
+"Number of circles used for circling wind averager. A value of 1 means no "
+"average"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1188
+msgid "Max Speed Delta"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1191
+msgid ""
+"Maximum accepted wind speed delta from last measurement accepted value for "
+"wind report to straight wind calculation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1193
+msgid "Max Dir Delta"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1196
+msgid ""
+"Maximum accepted wind direction delta from last measurement accepted value "
+"for wind report to straight wind calculation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1200 c:\d_xcvario\SetupMenu.cpp:1219
+msgid "Compass"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1205
+msgid "Wind Calculation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1207
+msgid "Straight"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1208
+msgid "Circling"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1209
+msgid "Both"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1210
+msgid ""
+"Enable Wind calculation for straight flight (needs compass), circling or "
+"both and display wind in reto display style"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1214
+msgid "Display"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1216
+msgid "Wind Digits"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1217
+msgid "Wind Arrow"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1218
+msgid "Wind Both"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1220
+msgid ""
+"Control what is to be displayed, either as digits or by arrow or both on "
+"retro style screen, if no wind avail, compass is shown"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1224
+msgid "Arrow Ref"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1225
+msgid "North"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1226
+msgid "Mag Heading"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1227
+msgid "GPS Course"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1228
+msgid ""
+"Wind arrow related either to geographic north or related to true airplane "
+"heading"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1231
+msgid "Straight Wind"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1233
+msgid "Straight flight wind calculation needs compass module active"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1236
+msgid "Circling Wind"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1240
+msgid "Wind Logging"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1242
+msgid "Enable WIND"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1243
+msgid "Enable GYRO/MAG"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1244
+msgid "Enable Both"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1245
+msgid "Enable Wind logging NMEA output to WIFI port 8882"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1250 c:\d_xcvario\SetupMenu.cpp:1730
+#: c:\d_xcvario\SetupMenu.cpp:1799 c:\d_xcvario\SetupMenu.cpp:1860
+#: c:\d_xcvario\SetupMenu.cpp:1953
+msgid "XCVario"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1254 c:\d_xcvario\SetupMenu.cpp:1807
+#: c:\d_xcvario\SetupMenu.cpp:1870
+msgid "S1-RS232"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1258
+msgid "S2-RS233"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1262 c:\d_xcvario\SetupMenu.cpp:1745
+#: c:\d_xcvario\SetupMenu.cpp:1811
+msgid "CAN-bus"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1270
+msgid "Letter 1"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1271
+msgid "Letter 2"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1272
+msgid "Letter 3"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1273
+msgid "Letter 4"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1274
+msgid "Letter 5"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1275
+msgid "Letter 6"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "0"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "1"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+#: c:\d_xcvario\SetupMenu.cpp:1713
+msgid "2"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "3"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "4"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+#: c:\d_xcvario\SetupMenu.cpp:1714
+msgid "5"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "6"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "7"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "8"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "9"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282
+msgid "-"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "A"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "B"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "C"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "D"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "E"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "F"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "G"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "H"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "I"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "J"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "K"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "L"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "M"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "N"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "O"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "P"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "Q"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "R"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "S"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "T"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "U"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "V"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "W"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "X"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "Y"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1282 c:\d_xcvario\SetupMenu.cpp:1575
+msgid "Z"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1293 c:\d_xcvario\SetupMenu.cpp:1448
+#: c:\d_xcvario\SetupMenu.cpp:1735 c:\d_xcvario\SetupMenu.cpp:1803
+#: c:\d_xcvario\SetupMenu.cpp:1865
+msgid "Wireless"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1294
+msgid ""
+"Activate wireless interface type to connect navigation devices, or to "
+"another XCVario as client"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1296 c:\d_xcvario\SetupMenu.cpp:1322
+msgid "Bluetooth"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1297
+msgid "Wireless Master"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1298
+msgid "Wireless Client"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1299
+msgid "Wireless Standalone"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1300
+msgid "Bluetooth LE"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1303
+msgid "WL Routing"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1305
+msgid "Select data source that is routed from/to Wireless BT or WIFI interface"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1308
+msgid "WIFI Power"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1311
+#, c-format
+msgid "Maximum Wifi Power to be used 10..100% or 2..20dBm"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1313
+msgid "Lock Master"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1314
+msgid ""
+"In wireless client role, lock the scanned master XCVario ID above to this "
+"client"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1315
+msgid "Unlock"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1316
+msgid "Lock"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1319
+msgid "Monitor"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1320
+msgid "Short press button to start/pause, long press to terminate data monitor"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1323
+msgid "Wifi 8880"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1324
+msgid "Wifi 8881"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1325
+msgid "Wifi 8882"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1326
+msgid "RS232 S1"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1327
+msgid "RS232 S2"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1328
+msgid "CAN Bus"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1331
+msgid "Monitor Mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1332
+msgid "Display data either in ASCII or do a Binary hexdump"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1333
+msgid "ASCII"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1334
+msgid "Binary"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1337
+msgid "Custom-ID"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1339
+msgid ""
+"Select custom ID (SSID) for wireless BT (or WIFI) interface, e.g. D-1234. "
+"Restart device to activate"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1344
+msgid "Activation Mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1345
+msgid ""
+"Switch off G-Force screen, or activate G-Force screen by threshold "
+"'Dynamic', or static by 'Always-On'"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1346
+msgid "Off"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1347
+msgid "Dynamic"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1348
+msgid "Always-On"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1351
+msgid "Positive Threshold"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1354
+msgid "Positive threshold to launch G-Load display"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1356
+msgid "Negative Threshold"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1359
+msgid "Negative threshold to launch G-Load display"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1361
+msgid "Red positive limit"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1364
+msgid ""
+"Positive g load factor limit the airplane is able to handle according to "
+"manual below manoevering speed"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1366
+msgid "Yellow pos. Limit"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1369
+msgid ""
+"Positive g load factor limit the structure of airplane is able to handle, "
+"see manual, above manoevering speed"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1371
+msgid "Red negative limit"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1374
+msgid ""
+"Negative g load factor limit the airplane is able to handle according to "
+"manual below manoevering speed"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1376
+msgid "Yellow neg. Limit"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1379
+msgid ""
+"Negative g load factor limit the structure of airplane is able to handle, "
+"see manual, below manoevering speed"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1382
+msgid "Max Positive"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1385
+msgid "Maximum positive G-Load measured since last reset"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1387
+msgid "Max Negative"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1390
+msgid "Maximum negative G-Load measured since last reset"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1392
+msgid "G-Load reset"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1393
+msgid "Option to reset stored maximum positive and negative G-load values"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1401
+msgid "Student Mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1403
+msgid ""
+"Student mode, disables all sophisticated setup to just basic pre-flight "
+"related items like MC, ballast or bugs"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1409
+msgid "Units"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1411
+msgid ""
+"Setup altimeter, airspeed indicator and variometer with European Metric, "
+"American, British or Australian units"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1414
+msgid "Airspeed Mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1416
+msgid ""
+"Select mode of Airspeed indicator to display IAS (Indicated AirSpeed), TAS "
+"(True AirSpeed) or CAS (calibrated airspeed)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1417
+msgid "IAS"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1418
+msgid "TAS"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1419
+msgid "CAS"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1420
+msgid "Slip Angle"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1422
+msgid "Auto Transition"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1424
+msgid ""
+"Option to enable automatic altitude transition to QNH Standard (1013.25) "
+"above 'Transition Altitude'"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1428
+msgid "Altitude Mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1430
+msgid "Select altitude display mode"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1432
+msgid "QFE"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1434
+msgid "Transition Altitude"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1434
+msgid "FL"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1435
+msgid ""
+"Transition altitude (or transition height, when using QFE) is the altitude/"
+"height above which standard pressure (QNE) is set (1013.2 mb/hPa)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1438
+msgid "FLARM"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1440
+msgid "Option to display FLARM Warnings depending on FLARM alarm level"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1443
+msgid "Compass/Wind"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1445
+msgid "Setup Compass and Wind"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1452
+msgid "G-Load Display"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1459
+msgid "Software Vers."
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1463 c:\d_xcvario\SetupMenu.cpp:1904
+msgid "Software Update"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1464
+msgid ""
+"Software Update over the air (OTA). Start Wifi AP, then connect to Wifi "
+"'ESP32 OTA' and open http://192.168.4.1 to upload firmware"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1471
+msgid "Battery Low"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1471 c:\d_xcvario\SetupMenu.cpp:1472
+#: c:\d_xcvario\SetupMenu.cpp:1473 c:\d_xcvario\SetupMenu.cpp:1474
+msgid "Volt "
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1472
+msgid "Battery Red"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1473
+msgid "Battery Yellow"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1474
+msgid "Battery Full"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1476
+msgid "Battery Display"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1477
+#, c-format
+msgid ""
+"Option to display battery charge state either in Percentage e.g. 75% or "
+"Voltage e.g. 12.5V"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1478
+msgid "Percentage"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1479
+msgid "Voltage"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1480
+msgid "Voltage Big"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1491
+msgid "HW Type"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1492
+msgid "Factory setup for corresponding display type used"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1493
+msgid "UNIVERSAL"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1494
+msgid "RAYSTAR"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1495
+msgid "ST7789"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1496
+msgid "ILI9341"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1499
+msgid "Style"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1501
+msgid ""
+"Display style in more digital airliner stype or retro mode with classic "
+"vario meter needle"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1502
+msgid "Airliner"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1503
+msgid "Retro"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1504
+msgid "UL"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1506
+msgid "Color Variant"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1508
+msgid "Display variant white on black (W/B) or black on white(B/W)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1509
+msgid "W/B"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1510
+msgid "B/W"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1513
+msgid "Orientation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1515
+msgid ""
+"Display Orientation either NORMAL means Rotary is right, or TOPDOWN means "
+"Rotary is left"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1516
+msgid "NORMAL"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1517
+msgid "TOPDOWN"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1520
+msgid "Needle Alignment"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1522
+msgid ""
+"Alignment of the variometer needle either in front of the infos displayed, "
+"or in background"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1523
+msgid "Front"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1524
+msgid "Back"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1530
+msgid "G-Meter"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1537
+msgid "Screens"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1539
+msgid "Select screens to be activated one after each other by short press"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1548
+msgid "Select type of rotary switch, different brands may need adjustment"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1549
+msgid "Clockwise"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1550
+msgid "Counterclockwise"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1552
+msgid "Sensitivity"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1554
+msgid ""
+"Select rotary sensitivity in number of Indent's for one increment, to your "
+"personal preference, 1 Indent is most sensitive"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1555
+msgid "1 Indent"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1556
+msgid "2 Indent"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1557
+msgid "3 Indent"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1558
+msgid "4 Indent"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1561
+msgid "Rotation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1563
+msgid "Select value to be altered at rotary movement outside of setup menu"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1564
+msgid "Volume"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1565
+msgid "MC Value"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1567
+msgid "Setup Menu by"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1569
+msgid ""
+"Select Mode to activate setup menu either by short press or long press > 0.4 "
+"seconds"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1570
+msgid "Short Press"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1571
+msgid "Long Press"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1575
+msgid ";"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1575
+msgid "<"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1575
+msgid "="
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1575
+msgid ">"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1575
+msgid "?"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1575
+msgid "@"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1578
+msgid "First    Letter"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1579
+msgid "Second Letter"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1580
+msgid "Third   Letter"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1581
+msgid "Last     Letter"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1595
+msgid "AHRS ID"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1599
+msgid "AHRS Option"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1601
+msgid ""
+"Enable High Accuracy Attitude Sensor (AHRS) NMEA messages (need valid "
+"license key entered)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1606
+msgid "AHRS Autozero"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1608
+#, c-format
+msgid ""
+"Start Autozero of AHRS Sensor; Preconditions: On ground; Wings "
+"100% horizontal, fuselage in flight position !"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1612
+msgid "AHRS License Key"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1613
+msgid ""
+"Enter valid AHRS License Key, then with valid key under 'AHRS Option', AHRS "
+"feature can be enabled"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1617
+msgid "AHRS Gyro"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1618
+msgid ""
+"Gyro factor in artifical horizont bank and pitch (more instant movement), "
+"zero disables Gyro"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1621
+msgid "AHRS RPYL"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1623
+msgid "Send LEVIL AHRS like $RPYL sentence for artifical horizon"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1627
+msgid "AHRS Temp Control"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1629
+msgid ""
+"Regulated target temperature of AHRS silicon chip, if supported in hardware "
+"(model > 2023), -1 means OFF"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1636
+msgid "DISPLAY Setup"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1640
+msgid "Rotary Setup"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1644
+msgid "S2F Switch"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1646
+msgid ""
+"Select S2F hardware switch type, what can be an normal switch or a push "
+"button without lock toggling S2F mode any time pressed"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1648
+msgid "Push Button"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1649
+msgid "Switch Inverted"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1651
+msgid "Gear Warn"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1653
+msgid ""
+"Enable gear warning on S2 flap sensor or serial RS232 pin (pos. or neg. "
+"signal) or by external command"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1655
+msgid "S2 Flap positive"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1656
+msgid "S2 RS232 positive"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1657
+msgid "S2 Flap negative"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1658
+msgid "S2 RS232 negative"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1662
+msgid "AHRS Setup"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1667
+msgid "AS Sensor type"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1669
+msgid ""
+"Factory default for type of pressure sensor, will not erase on factory reset"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1670
+msgid "ABPMRR"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1671
+msgid "TE4525"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1672
+msgid "MP5004"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1673
+msgid "Autodetect"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1675 c:\d_xcvario\SetupMenu.cpp:2048
+msgid "Voltmeter Adjust"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1676
+msgid "Option to fine factory adjust voltmeter"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1681 c:\d_xcvario\SetupMenu.cpp:1719
+msgid "Stall Warning"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1683
+#, c-format
+msgid ""
+"Enable alarm sound when speed goes below configured stall speed and below "
+"(until 30% less)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1687
+msgid "Stall Speed"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1688
+msgid "Configure stalling speed for corresponding airplane type and reboot"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1693
+msgid "Altimeter Source"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1695
+msgid ""
+"Select source for barometric altitude, either TE sensor or Baro sensor "
+"(recommended) or an external source e.g. FLARM (if avail)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1696
+msgid "TE Sensor"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1697
+msgid "Baro Sensor"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1700
+msgid "AS Calibration"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1701
+msgid ""
+"Calibration of airspeed sensor (AS). Normally not needed, hence pressure "
+"probes may have systematic error"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1704
+msgid "AutoZero AS Sensor"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1706
+msgid "Recalculate zero point for airspeed sensor on next power on"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1710
+msgid "Alt. Quantization"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1711
+msgid "Set altimeter mode with discrete steps and rolling last digits"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1715
+msgid "10"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1716
+msgid "20"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1721
+msgid "Configure stall warning parameters"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1724
+msgid "Maximum Speed"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1725
+msgid "Configure maximum speed for corresponding airplane type"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1740 c:\d_xcvario\SetupMenu.cpp:1875
+msgid "S2-RS232"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1752 c:\d_xcvario\SetupMenu.cpp:1818
+msgid "Baudraute"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1754 c:\d_xcvario\SetupMenu.cpp:1821
+msgid "OFF"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1755 c:\d_xcvario\SetupMenu.cpp:1822
+msgid "4800 baud"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1756 c:\d_xcvario\SetupMenu.cpp:1823
+msgid "9600 baud"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1757 c:\d_xcvario\SetupMenu.cpp:1824
+msgid "19200 baud"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1758 c:\d_xcvario\SetupMenu.cpp:1825
+msgid "38400 baud"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1759 c:\d_xcvario\SetupMenu.cpp:1826
+msgid "57600 baud"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1760 c:\d_xcvario\SetupMenu.cpp:1827
+msgid "115200 baud"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1762
+msgid "Serial Loops"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1764
+msgid ""
+"Option to loop serial S1 RX to S1 TX, e.g. for unidirectional OV or Kobo "
+"connection"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1768
+msgid "S1 Routing"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1770
+msgid "Select data source to be routed from/to serial interface S1"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1773 c:\d_xcvario\SetupMenu.cpp:1834
+msgid "TX Inversion"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1775 c:\d_xcvario\SetupMenu.cpp:1836
+msgid ""
+"Serial RS232 (TTL) option for negative logic, means a '1' will be sent at "
+"zero level (RS232 standard and default) and vice versa"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1777 c:\d_xcvario\SetupMenu.cpp:1783
+#: c:\d_xcvario\SetupMenu.cpp:1838 c:\d_xcvario\SetupMenu.cpp:1844
+msgid "Inverted"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1779 c:\d_xcvario\SetupMenu.cpp:1840
+msgid "RX Inversion"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1781 c:\d_xcvario\SetupMenu.cpp:1842
+msgid ""
+"Serial RS232 (TTL) option for negative logic, means a '1' will be received "
+"at zero level (RS232 standard and default) and vice versa"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1785 c:\d_xcvario\SetupMenu.cpp:1846
+msgid "Twist RX/TX Pins"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1787
+msgid ""
+"Option to twist RX and TX line for S1, e.g. for OpenVario. After change also "
+"a true power-cycle is needed"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1789 c:\d_xcvario\SetupMenu.cpp:1850
+msgid "Twisted"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1791 c:\d_xcvario\SetupMenu.cpp:1852
+msgid "TX Line"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1793 c:\d_xcvario\SetupMenu.cpp:1854
+msgid ""
+"Option to switch off RS232 TX line in case active sending is not required, e."
+"g. for multiple devices connected to one device"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1829
+msgid "S2 Routing"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1830
+msgid "Select data source to be routed from/to serial interface S2"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1848
+msgid ""
+"Option to twist RX and TX line for S2, e.g. for OpenVario. After change also "
+"a true power-cycle is needed"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1882
+msgid "Datarate"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1884
+msgid "Datarate on high speed serial CAN interace in kbit per second"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1885
+msgid "CAN OFF"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1886
+msgid "250 kbit"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1887
+msgid "500 kbit"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1888
+msgid "1000 kbit"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1890
+msgid "CAN Routing"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1892
+msgid "Select data source that is routed from/to CAN interface"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1897
+msgid ""
+"Select 'Standalone' for single seater or 'Master' in front, for secondary "
+"device in rear 'Client'"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1898
+msgid "Master"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1899
+msgid "Client"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1900
+msgid "Standalone"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1908
+msgid "Factory Reset"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1909
+msgid ""
+"Option to reset all settings to factory defaults, means metric system, 5 m/s "
+"vario range and more"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1911
+msgid "ResetAll"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1914
+msgid "Battery Setup"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1915
+msgid ""
+"Adjust corresponding voltage for battery symbol display low,red,yellow and "
+"full"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1919
+msgid "Hardware Setup"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1920
+msgid ""
+"Setup variometer hardware e.g. display, rotary, AS and AHRS sensor, "
+"voltmeter, etc"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1925
+msgid "Altimeter, Airspeed"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1930
+msgid "RS232 Interface S1"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1935
+msgid "RS232 Interface S2"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1941
+msgid "CAN Interface"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1947
+msgid "NMEA Protocol"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1949
+msgid ""
+"Setup the protocol used for sending NMEA sentences. This needs to be inline "
+"with the device driver chosen in XCSoar/LK8000"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1950
+msgid "OpenVario"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1951
+msgid "Borgelt"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1952
+msgid "Cambridge"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1958
+msgid "setup_create_root()"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1960
+msgid "MC"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1961
+msgid ""
+"Mac Cready value for optimum cruise speed, or average climb rate to be "
+"provided in same unit as the variometer"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1966
+msgid "Audio Volume"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1967
+msgid "Audio volume level for variometer tone on internal and external speaker"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1971
+msgid "Bugs"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1972
+msgid ""
+"Percent of bugs contamination to indicate degradation of gliding performance"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1975
+msgid "Ballast"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1975
+msgid "litre"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1976
+msgid "Amount of water ballast added to the over all weight"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1980
+msgid "Crew Weight"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1982
+msgid ""
+"Weight of the pilot(s) including parachute (everything on top of the empty "
+"weight apart from ballast)"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1988
+msgid "Airfield Elevation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:1989
+msgid ""
+"Airfield elevation in meters for QNH auto adjust on ground according to this "
+"elevation"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:2000
+msgid "Expert Password"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:2002
+msgid ""
+"To exit from student mode enter expert password and restart device after "
+"expert password has been set correctly"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:2008
+msgid "Vario and Speed 2 Fly"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:2013
+msgid "Audio"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:2018
+msgid "Glider Details"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:2023
+msgid "Options"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:2028
+msgid "System"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:2036
+msgid ""
+"QNH pressure value from next ATC. On ground you may adjust to airfield "
+"altitude above MSL"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:2042
+msgid "SetupMenu setup()"
+msgstr ""
+
+#: c:\d_xcvario\SetupMenu.cpp:2043
+msgid "Setup"
+msgstr ""
