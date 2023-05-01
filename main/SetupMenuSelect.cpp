@@ -88,7 +88,7 @@ void SetupMenuSelect::delEntry( const char* ent ) {
 		}
 }
 
-SetupMenuSelect::SetupMenuSelect( const char* title, bool restart, int (*action)(SetupMenuSelect *p), bool save, SetupNG<int> *anvs, bool ext_handler, bool end_menu ) {
+SetupMenuSelect::SetupMenuSelect( const char* title, e_restart_mode_t restart, int (*action)(SetupMenuSelect *p), bool save, SetupNG<int> *anvs, bool ext_handler, bool end_menu ) {
 	// ESP_LOGI(FNAME,"SetupMenuSelect( %s ) action: %x", title, (int)action );
 	attach(this);
 	bits._ext_handler = ext_handler;
@@ -160,7 +160,7 @@ void SetupMenuSelect::display( int mode ){
 			ucg->drawBox( 1,280,240,40 );
 			ucg->setPrintPos( 1, 300 );
 			ucg->setColor( COLOR_WHITE );
-			ucg->print("Saved" );
+			ucg->print(PROGMEM"Saved" );
 			xSemaphoreGive(spiMutex );
 		}
 		if( mode == 1 )
@@ -256,8 +256,11 @@ void SetupMenuSelect::press(){
 			(*_action)( this );
 		}
 		if( _select_save != _select ){
-			if( bits._restart ) {
+			if( bits._restart == RST_ON_EXIT ) {
 				_restart = true;
+			}else if( bits._restart == RST_IMMEDIATE ){
+				_nvs->commit();
+				MenuEntry::restart();
 			}
 			_select_save = _select;
 		}
